@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @santhoshkumar
-- 👀 I’m interested in Data Structure
+- 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Final Year -2024
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
